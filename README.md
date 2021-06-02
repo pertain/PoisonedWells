@@ -13,7 +13,7 @@ Currently working on a flood technique for clearing safe regions.
 
 ## Sample Board
 
-`Enter board size (integer): 10
+Enter board size (integer): 10
 ┏━━━┳━━━┳━━━┳━━━┳━━━┳━━━┳━━━┳━━━┳━━━┳━━━┓
 ┃▐█▌┃▐█▌┃ ☠ ┃▐█▌┃▐█▌┃▐█▌┃▐█▌┃ ☠ ┃▐█▌┃ ☠ ┃
 ┣━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━┫
@@ -34,4 +34,5 @@ Currently working on a flood technique for clearing safe regions.
 ┃ ☠ ┃ ☠ ┃▐█▌┃▐█▌┃ ☠ ┃▐█▌┃ ☠ ┃ ☠ ┃▐█▌┃▐█▌┃
 ┣━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━╋━━━┫
 ┃ ☠ ┃▐█▌┃▐█▌┃ ☠ ┃ ☠ ┃▐█▌┃▐█▌┃▐█▌┃▐█▌┃▐█▌┃
-┗━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┛`
+┗━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┻━━━┛
+
